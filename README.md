@@ -2,7 +2,7 @@
 
 ## Simple Golang CLI for filtering through your SSH Config.
 
-This is my first Golang application, and it's based off of the Bubbles list example.
+This is my first Golang application, and it's based off of the [Bubbles list example](https://github.com/charmbracelet/bubbles/blob/master/list/list.go)
 
 ### Installing from source
 
